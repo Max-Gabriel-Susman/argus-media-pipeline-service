@@ -1,0 +1,13 @@
+temp
+.env
+*.log
+argus-stream-engine-service-deployment.yaml
+README.md
+Makfile
+LICENSE
+.github
+imagery/*.ts
+imagery/*.m3u8
+scripts/ 
+cloudformation/
+dev-notes.txt

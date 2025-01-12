@@ -1,0 +1,17 @@
+temp
+.env
+*.log
+vendor/
+imagery/*.mp4
+imagery/*.ts
+imagery/*.m3u8
+imagery/*.flv
+scripts/ 
+cloudformation/
+argus-stream-engine-service-deployment.yaml
+dev-notes.txt
+vendor/
+pipeline.o
+libpipeline.
+gst_pipeline.o
+libgst_pipeline.a
